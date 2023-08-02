@@ -9,9 +9,9 @@ Customer List
 Refresh
 ![Screenshot (55)](https://github.com/rk0775/customer_api_assignment/assets/118426413/8e3db74e-b7d0-4f5c-b8c7-5156c5829fc4)
 
-
+********
 ![Screenshot (56)](https://github.com/rk0775/customer_api_assignment/assets/118426413/433e3faf-3189-4f90-b75d-e6b1fc5d3958)
-
+********
 ![Screenshot (57)](https://github.com/rk0775/customer_api_assignment/assets/118426413/307d5450-c10e-49fb-85f3-a73e81fc963e)
 
 ![Screenshot (58)](https://github.com/rk0775/customer_api_assignment/assets/118426413/0aa6d5cf-6fdf-4578-b72e-526f93883397)
