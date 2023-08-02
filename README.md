@@ -1,41 +1,60 @@
-![Screenshot (65)](https://github.com/rk0775/customer_api_assignment/assets/118426413/77d2631e-9316-4ba1-9e20-73511bbe8e89)![Screenshot (63)](https://github.com/rk0775/customer_api_assignment/assets/118426413/cd98a207-a9c0-47be-9d63-e38a0878b09a)![Screenshot (65)](https://github.com/rk0775/customer_api_assignment/assets/118426413/9613df95-31ed-468c-ba80-36196250a8ca)![Screenshot (64)](https://github.com/rk0775/customer_api_assignment/assets/118426413/982ce981-b847-4225-b066-b06b97bed823)![Screenshot (66)](https://github.com/rk0775/customer_api_assignment/assets/118426413/f3cf9155-5701-4167-b7ed-5b50145cfac3)# customer_api_assignment
-*Demo Video
-https://github.com/rk0775/customer_api_assignment/assets/118426413/05274a54-262a-4917-90bf-5af46259c4f1
+![Screenshot (66)](https://github.com/rk0775/customer_api_assignment/assets/118426413/13d1d62c-4739-466f-9474-e1cf917f8d08)![Screenshot (53)](https://github.com/rk0775/customer_api_assignment/assets/118426413/91f76056-2a9c-4183-9985-b36fd028204b)
 
-Login Page
-![Screenshot (53)](https://github.com/rk0775/customer_api_assignment/assets/118426413/eb33bad0-0a9b-4916-a423-812e3bf07498)
+***************
 
-Customer List
-Refresh
-![Screenshot (55)](https://github.com/rk0775/customer_api_assignment/assets/118426413/8e3db74e-b7d0-4f5c-b8c7-5156c5829fc4)
+![Screenshot (54)](https://github.com/rk0775/customer_api_assignment/assets/118426413/86b6403d-a5c6-43c5-9af7-ae95deb0e430)
 
-********
-![Screenshot (56)](https://github.com/rk0775/customer_api_assignment/assets/118426413/433e3faf-3189-4f90-b75d-e6b1fc5d3958)
-********
-![Screenshot (57)](https://github.com/rk0775/customer_api_assignment/assets/118426413/307d5450-c10e-49fb-85f3-a73e81fc963e)
+**************
 
-![Screenshot (58)](https://github.com/rk0775/customer_api_assignment/assets/118426413/0aa6d5cf-6fdf-4578-b72e-526f93883397)
+![Screenshot (55)](https://github.com/rk0775/customer_api_assignment/assets/118426413/60a3abf6-7e95-44f7-9404-2b4b366aa12e)
+
+**************
+
+![Screenshot (56)](https://github.com/rk0775/customer_api_assignment/assets/118426413/28c6c739-4ee8-4a93-a45e-4411eaeabea8)
+
+*************
+
+![Screenshot (57)](https://github.com/rk0775/customer_api_assignment/assets/118426413/9bbff3c2-e5c2-476a-80e8-08bab4341d2e)
+
+************
+
+![Screenshot (58)](https://github.com/rk0775/customer_api_assignment/assets/118426413/fc442583-9e2c-4d98-9dae-247e0a694964)
+
+***********
+
+![Screenshot (59)](https://github.com/rk0775/customer_api_assignment/assets/118426413/95abb3a0-9c0f-4856-aa69-8dc31a28031d)
+
+**********
+
+![Screenshot (60)](https://github.com/rk0775/customer_api_assignment/assets/118426413/33d62b43-2436-456e-b498-56064c2cac8c)
+
+**********
+
+![Screenshot (61)](https://github.com/rk0775/customer_api_assignment/assets/118426413/0b42c7c8-94cf-4b4c-aa57-a2ff1b61daac)
+
+*********
+
+![Screenshot (62)](https://github.com/rk0775/customer_api_assignment/assets/118426413/28c0ba55-a135-445f-89a3-0dc2e1868498)
+
+**********
+
+![Screenshot (63)](https://github.com/rk0775/customer_api_assignment/assets/118426413/496fe380-eeec-4a53-8248-3cb1b1e08ec6)
+
+**********
+
+![Screenshot (64)](https://github.com/rk0775/customer_api_assignment/assets/118426413/058d21df-ea8e-45a3-aa56-defb9bc0a6e7)
+
+
+***********
+
+![Screenshot (65)](https://github.com/rk0775/customer_api_assignment/assets/118426413/4781a190-6f54-436e-9a34-ba10c99b5aeb)
+
+**********
+![Screenshot (66)](https://github.com/rk0775/customer_api_assignment/assets/118426413/20ffe0e0-544a-4908-893c-ce674d9d5b41)
 
 
 
-![Screenshot (59)](https://github.com/rk0775/customer_api_assignment/assets/118426413/0e2474a9-cfd6-4440-9100-7a4a8312cb51)
 
-![Screenshot (60)](https://github.com/rk0775/customer_api_assignment/assets/118426413/ff66e52b-9762-4fb8-a291-fe3538dac974)
-
-
-
-
-![Screenshot (62)](https://github.com/rk0775/customer_api_assignment/assets/118426413/4ed4585b-433f-4889-a1a8-8b995503e58e)
-
-
-![Screenshot (63)](https://github.com/rk0775/customer_api_assignment/assets/118426413/ad39f03f-6fbd-47f0-adff-1dd463b9f340)
-
-
-![Screenshot (64)](https://github.com/rk0775/customer_api_assignment/assets/118426413/e1f372fd-0098-406e-8435-120bf9ed3866)
-
-![Screenshot (65)](https://github.com/rk0775/customer_api_assignment/assets/118426413/3c70c01f-00d8-4dc5-af8f-60c90e63af9b)
-
-![Screenshot (66)](https://github.com/rk0775/customer_api_assignment/assets/118426413/ed13b742-8f46-42b7-9bb4-579cd16565ae)
 
 
 
