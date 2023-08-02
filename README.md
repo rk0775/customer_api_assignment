@@ -1,4 +1,4 @@
-
+![Screenshot (53)](https://github.com/rk0775/customer_api_assignment/assets/118426413/cb1e1bcc-c1c1-423c-b32e-1b6c4086181c)
 
 ***************
 
